@@ -9,7 +9,7 @@ react-scripts: 4.0.3
 web-vitals: 1.0.1
 
 Running the project:
--The terminal should start at /home/workspace, then cd to starter folder
+-The terminal should start at /Myreads/myreads, then cd to starter folder
 -Run "npm install" to install the required packages
 -Run "nmp start" to start the project
 
