@@ -34,9 +34,9 @@ const Search = () => {
       return { ...book, shelf: "none" };
     });
   };
-
   useEffect(() => {
     handleSearchTextChange();
+    // eslint-disable-next-line
   }, [searchText]);
 
   return (
